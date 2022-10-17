@@ -1,12 +1,11 @@
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Scanner;
 import java.io.FileReader;
 
 public class Main
 {
-    public static void main(String[] args) throws FileNotFoundException
+    public static void main(String[] args)
     {
         String opt1 = "$98,345 average salary in South Florida!";
         String opt2 = "US News - 100 Best Jobs!";
